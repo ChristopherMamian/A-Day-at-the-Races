@@ -1,0 +1,49 @@
+
+.racer_table td.player1 {
+  background-color: black
+
+}
+.player1 {
+  background-image: url(tort.png);
+  background-size: 100%;
+
+}
+
+.racer_table td.player2 {
+  background-color: black;
+}
+.racer_table td {
+  background-color: white;
+  height: 50px;
+  width: 50px;
+}
+/*
+.racer_table td.finish {
+  background-image: url(./15.png);
+  background-size: 40px;
+  border: none;
+}
+#player1_strip td {
+  background-color: gray;
+}
+#player2_strip td {
+  background-color: rgb(210, 234, 220);
+}
+#player1_strip td.active {
+  background-color: black;
+  background-image: none;
+}
+#player2_strip td.active {
+  background-color: black;
+  background-image: none;
+}
+header {
+  font-size: 300%;
+}
+#winner {
+  font-size: 300%;
+}
+#slider_value {
+  width: 20px;
+*/
+*/
